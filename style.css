@@ -90,6 +90,14 @@ body{
     color: var(--cinsa-secundario) ;
 
 }
+ 
 
+.secundario__botao{
+    display: inline-block;
+    margin-top: 1em;
 
+}
+ .conteiner__discricao{
+    padding: 2em;
+ }
 
